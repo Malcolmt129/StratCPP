@@ -1,0 +1,1 @@
+project(StratCpp VERSION 1.0)
