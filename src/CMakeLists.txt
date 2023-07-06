@@ -1,1 +1,1 @@
-project(StratCpp VERSION 1.0)
+add_library(src a)

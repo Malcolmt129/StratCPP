@@ -1,5 +1,0 @@
-/home/mac129/CompProg/StratCPP/CMakeFiles/rebuild_cache.dir
-/home/mac129/CompProg/StratCPP/CMakeFiles/edit_cache.dir
-/home/mac129/CompProg/StratCPP/CMakeFiles/main.dir
-/home/mac129/CompProg/StratCPP/src/CMakeFiles/rebuild_cache.dir
-/home/mac129/CompProg/StratCPP/src/CMakeFiles/edit_cache.dir

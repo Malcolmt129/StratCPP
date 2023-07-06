@@ -1,0 +1,2 @@
+/home/malcolmt129/projects/StratCPP/build/CMakeFiles/rebuild_cache.dir
+/home/malcolmt129/projects/StratCPP/build/CMakeFiles/edit_cache.dir
