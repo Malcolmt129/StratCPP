@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/USCPIstrat.h
+string
+-
+vector
+-
+unordered_map
+-
+
+/home/malcolmt129/projects/StratCPP/src/USCPIstrat.cpp
+USCPIstrat.h
+/home/malcolmt129/projects/StratCPP/src/USCPIstrat.h
+
+/home/malcolmt129/projects/StratCPP/src/connection.cpp
+
+/home/malcolmt129/projects/StratCPP/src/main.cpp
+iostream
+-
+
