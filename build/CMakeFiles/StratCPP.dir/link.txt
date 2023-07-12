@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/StratCPP.dir/src/connection.cpp.o CMakeFiles/StratCPP.dir/src/main.cpp.o CMakeFiles/StratCPP.dir/src/USCPIstrat.cpp.o  -o StratCPP 
