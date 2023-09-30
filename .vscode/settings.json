@@ -1,0 +1,8 @@
+{
+  "C_Cpp.default.compilerPath": "/usr/bin/g++",
+  "editor.formatOnSave": true,
+  "C_Cpp.errorSquiggles": "enabled",
+  "files.associations": {
+    "iostream": "cpp"
+  }
+}

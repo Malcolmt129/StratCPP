@@ -2,3 +2,6 @@
 .vs
 CMAKEFiles
 build
+venv/
+defs.py
+*.ini
